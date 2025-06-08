@@ -1,1 +1,2 @@
 Initial content
+Remote change to file.txt
